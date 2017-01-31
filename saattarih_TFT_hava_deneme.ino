@@ -40,9 +40,7 @@ String day_of_week[7]    = {"PAZAR", "PAZARTESI", "SALI", "CARSAMBA", "PERSEMBE"
 String month_of_year[12] = {"OCAK", "SUBAT", "MART", "NISAN", "MAYIS", "HAZIRAN", "TEMMUZ", "AGUSTOS", "EYLUL", "EKIM", "KASIM", "ARALIK"}; // January is month 0
 String webpage           = "";
 
-//const char* ssid     = "BaRisS";      // SSID of local network
-//const char* password = "barisailesi";   // Password on network
-String APIKEY = "1b1ac338bbb911f1d248027ccca4a67e";
+String APIKEY = "1b1ac338bbb911f1d248027ccca4a67ee";
 String CityID = "1172451"; //lahore , pakista
 //String CityID = "306571"; //konya ,
 
